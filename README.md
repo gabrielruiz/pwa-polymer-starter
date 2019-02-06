@@ -1,6 +1,13 @@
 # pwa-polymer-starter
 PWA Polymer starter kit examples on firebase.
 
+You can see both examples code working on these links:
+
+https://pwa-polymer-starter.firebaseapp.com/
+
+https://pwa-polymer-shop.firebaseapp.com/
+
+
 ## PWA Polymer Starter Kit - Official Documentation
 [https://pwa-starter-kit.polymer-project.org/setup](https://pwa-starter-kit.polymer-project.org/setup)
 
